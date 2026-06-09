@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# local Claude memory (project-local, never pushed) — see CLAUDE.md
+.claude/
